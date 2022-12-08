@@ -1,7 +1,7 @@
 # lab7_Sidorov
 
 1. Огляд програми
-  ![image](https://user-images.githubusercontent.com/101355277/206505926-1c36f3f1-4fb4-4aac-8b70-a4d793eaf1fd.png)
+  > ![image](https://user-images.githubusercontent.com/101355277/206505926-1c36f3f1-4fb4-4aac-8b70-a4d793eaf1fd.png)
 
 2. Виконання програми
   > Обираємо файли. Обираємо AES 128 біт.
@@ -15,4 +15,5 @@
   > ![image](https://user-images.githubusercontent.com/101355277/206507703-fb36f296-3e99-4f7f-8e01-5f7774a37ac6.png)
   
   > Ось початковий та зашифрований файл.
+  > 
   > ![image](https://user-images.githubusercontent.com/101355277/206507951-92b522e5-2d11-4192-ac99-14bf82c50aa3.png)
